@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmady016&label=Profile%20views&color=0e75b6&style=flat" alt="ahmady016" /> </p>
 
-- 🔭 I’m currently working on [Tech Store API](https://github.com/ahmady016/Tech_Store_API)
+- 🔭 I’m currently working on [C_Sharp_Foundation_Console_App]([https://github.com/ahmady016/Tech_Store_API](https://github.com/ahmady016/c_sharp_foundation_console_app)
 
 - 🌱 I’m currently learning **React-Query, Tailwindcss**
 
